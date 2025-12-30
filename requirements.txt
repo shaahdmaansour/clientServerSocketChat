@@ -1,3 +1,2 @@
-pymysql
-tkinter
-flask
+urllib3<2.0.0
+cryptography>=41.0.0
